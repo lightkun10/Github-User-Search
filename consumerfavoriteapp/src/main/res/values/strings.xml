@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ConsumerFavoriteApp</string>
+    <string name="user_favorite" translatable="false">User Favorite Placeholder</string>
+    <string name="favorite" translatable="false">favorites</string>
+
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+    <string name="add_favorite">Add Favorite</string>
+</resources>

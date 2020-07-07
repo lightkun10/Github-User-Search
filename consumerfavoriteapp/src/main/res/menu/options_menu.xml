@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/list_favorites"
+        android:icon="@drawable/baseline_favorite_black_24dp"
+        android:title="@string/favorite"
+        app:showAsAction="collapseActionView|ifRoom" />
+
+<!--    <item-->
+<!--        android:id="@+id/action_change_language"-->
+<!--        android:title="@string/change_language_settings"-->
+<!--        app:showAsAction="never" />-->
+
+<!--    <item-->
+<!--        android:id="@+id/reminder"-->
+<!--        android:title="@string/change_reminder_settings"-->
+<!--        android:icon="@drawable/baseline_add_alert_black_24dp"-->
+<!--        app:showAsAction="collapseActionView|ifRoom"-->
+<!--        />-->
+
+</menu>

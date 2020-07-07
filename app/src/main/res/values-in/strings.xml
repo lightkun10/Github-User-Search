@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pencarian Github</string>
+
+    <string name="search">Pencarian</string>
+    <string name="search_hint">Cari pengguna disini</string>
+
+    <string name="user_login">Isian User Login</string>
+
+    <string name="tab_text_1">Pengikut</string>
+    <string name="tab_text_2">Mengikuti</string>
+    <string name="user_follower">Pengikut pengguna</string>
+    <string name="user_following">Diikuti pengguna</string>
+
+    <string name="favorite">Pengguna favorit</string>
+    <string name="add_favorite">Tambah favorit</string>
+
+    <string name="settings">Pengaturan</string>
+
+    <string name="button_save">Simpan</string>
+    <string name="empty_not_saved">Favorit tidak disimpan karena kosong.</string>
+    <string name="hello_blank_fragment">Halo blank fragment</string>
+    <string name="change_reminder_settings">Ganti Pengaturan Pengingat</string>
+
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+
+    <!-- REMINDER ALARM-->
+    <string name="reminder">Pengingat</string>
+    <string name="alarm_date">Tanggal Alarm</string>
+    <string name="alarm_message">Pesan Alarm</string>
+    <string name="repeating_reminder">Pengingat Berulang</string>
+    <string name="set_repeating_alarm">Set Pengingat Berulang</string>
+    <string name="cancel_alarm">Batalkan Alarm</string>
+    <string name="alarm_time">Set Alarm Pengingat tiap jam 09:00 pagi</string>
+    <string name="alarm_title">Alarm Pengingat setiap jam 9:00 pagi</string>
+
+    <string name="language">Bahasa</string>
+    <string name="select_language">Pilih Bahasa</string>
+
+    <string name="preferences_setting">Pengaturan preferensi</string>
+    <string name="user_favorites">Favorit Pengguna</string>
+</resources>
